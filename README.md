@@ -1,4 +1,5 @@
 # Superstore_Sales_Insights
+
 ## Overview
 This Power BI project presents a comprehensive **sales analysis** for a fictional Superstore, leveraging **time series analytics** to uncover trends, forecast future performance, and drive strategic decision-making. The dashboard visualizes key metrics across **regions, segments, categories, and time**, offering actionable insights for business growth.
 
@@ -33,12 +34,12 @@ This Power BI project presents a comprehensive **sales analysis** for a fictiona
 3. Explore the dashboard and interact with filters to view insights across different dimensions.
 
 
-📌 Use Cases- Sales performance tracking
+## 📌 Use Cases- Sales performance tracking
 - Regional strategy planning
 - Inventory optimization 
 - Executive reporting and business reviews
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 <img width="1326" height="749" alt="Overall Dashboard" src="https://github.com/user-attachments/assets/05fc6ecc-0177-44f7-b59c-1f4111828013" />
 
